@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Slice&&color=0:87CEEB,100:0000FF&height=300&section=header&text=JinSeok%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&&color=0:87CEEB,100:0000FF&height=200&section=header&text=JinSeok%20Kim&fontSize=80)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
