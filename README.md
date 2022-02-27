@@ -1,4 +1,4 @@
-### 안녕 👋
+### 👋 Hello
 
 <!--
 **BlueJeans98/BlueJeans98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=Slice&&color=0:87CEEB,100:0000FF&height=300&section=header&text=JinSeok%20Kim&fontSize=90)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
