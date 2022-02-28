@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 ## 👋 I'm ...
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&&color=0067A3&height=200&section=header&text=JinSeok%20Kim&fontSize=60)
-✔ B.S. in [KAIST School of Computing](https://cs.kaist.ac.kr/) (2018.03 ~ )
+✔ B.S. in [KAIST School of Computing](https://cs.kaist.ac.kr/) (2018.03 ~ )   
+
+✔ Always want to make my life more meaningful ✨
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -36,14 +38,14 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-## I'm interested in ...
+## 📖 Now I'm interested in ...
 ✔ Deep Learning   
 
 ✔ Natural Language Processing   
 
 ✔ Back End Development
 
-##
+## 💻 Misc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueJeans98&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
