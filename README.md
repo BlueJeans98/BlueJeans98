@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlueJeans98&count_bg=%238CD3FF&title_bg=%23009DFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 😀 My name is
+# 👋 My name is
+
 ![header](https://capsule-render.vercel.app/api?type=Slice&&color=0067A3&height=200&section=header&text=JinSeok%20Kim&fontSize=60)
+✔ B.S. in [KAIST School of Computing](https://cs.kaist.ac.kr/) (2018.03 ~ )
 #
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
