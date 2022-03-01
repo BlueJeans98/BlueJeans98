@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
@@ -46,13 +47,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/F%23-63C5DA?style=flat-square&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAeAB4DASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAACAUHAwQGCf/EAC8QAAIBAwMCAwcEAwAAAAAAAAECAwQFEQYHIQBBCBIxEyJCUWFxgRQjM0OhscH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAYCBf/EACgRAAEDAgUDBAMAAAAAAAAAAAECAwQFYQAREiFRFDFBMnGxwdHh8f/aAAwDAQACEQMRAD8A9U+jHun4pHl1kmmtF1SGGmSdqu6qquJJEhdgkWQQVDAEt3IwOOWgvFX4iauKsrtC6eM1Esf7VzrWUxvJkcxR55C4PLfF6D3eW4zZ60UO326OmLDVUcFz1Dc3T9dLOgkgpKeWIsIos8Ozow80gyMHyrnJJoY0ANsmQ+MyQSkew7mwxLTKip18RY6sgCApVyfSLn83wm9md6qTceiWhrSlJqCFMyQjhZwPV0/6vb7dWj0Rt69qZdqLzS6hsFU1NbZqgewVZcS0s3LBVOcsvBIPqMYPYm59jt4TuXbJaSuhaK9USAzuiH2UyngOD6Kfmv5HGQBTIaC31cXds9x5SeML0mrPB80upbPp7Hwsci/P9A0t/wDYCg3etJq6QR0Wp6VMU9WRhZlH9Un0+R9VP0yCX9qtTvozX1ts2tbXVtVadklmo3TAqaQoju0Jzw8LckDPBPmUgMwZ/wDVd7l7I2PcmvpLnMTb7xTRyQrXQoCzxujIUcfEB5sjuD9Cehxp2hpUd7dJBy5BtbkY6cynFbqZUfZYIz4UM/Nx4P6weFTVHiS12T/BRw9+TBQQk/jzMcfdiOwHuqvRGh7VoCxRWu1Q+SNfekmbmSZ+7ue5/wAD0HHWXR2jrXoWxQWq0wexp4+WduXlfu7nuxx/oDAAHU31ibO6jJpoaW09h9m+F6RRxA1SZCtb6/Ur6HA+fbID/9k=&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/></a>&nbsp
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 <br>
