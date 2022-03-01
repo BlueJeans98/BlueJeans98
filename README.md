@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 👨‍💻 I'm currently working on
-+ pintos-kaist
++ [pintos-kaist](https://github.com/casys-kaist/pintos-kaist)
 
 ## 👀 Now I'm interested in ...
 + Deep Learning   
