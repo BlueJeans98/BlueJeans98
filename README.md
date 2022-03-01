@@ -55,7 +55,9 @@ Here are some ideas to get you started:
 <br>
 
 ## 👨‍💻 I'm currently working on ...
-+ [pintos-kaist](https://github.com/casys-kaist/pintos-kaist)
++ [pintos-kaist](https://github.com/casys-kaist/pintos-kaist)   
+
++ [Natural Language Processing with Python](https://www.nltk.org/book/)   
 
 ## 👀 Now I'm interested in ...
 + Deep Learning   
