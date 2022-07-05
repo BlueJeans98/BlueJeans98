@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm ...</h1>
 
-![header](https://capsule-render.vercel.app/api?type=Slice&&color=0067A3&height=200&section=header&text=JinSeok%20Kim&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Slice&&color=FF1100&height=200&section=header&text=JinSeok%20Kim&fontSize=60&animation=fadeIn)
 ✔ B.S. in [KAIST School of Computing](https://cs.kaist.ac.kr/) (2018.03 ~ )   
 
 ✔ Always want to make my life more meaningful ✨   
@@ -55,17 +55,13 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-## 👨‍💻 I'm currently working on ...
-+ [pintos-kaist](https://github.com/casys-kaist/pintos-kaist)   
-
-+ [Natural Language Processing with Python](https://www.nltk.org/book/)   
+## 👨‍💻 I'm currently in ...
++ [COINSE LAB](https://coinse.kaist.ac.kr/)   
 
 ## 👀 Now I'm interested in ...
-+ Deep Learning   
++ Fault Localization
 
-+ Natural Language Processing   
-
-+ Back End Development
++ Deep Learning
 
 ## 💻 Misc
 
