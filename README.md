@@ -65,6 +65,5 @@ Here are some ideas to get you started:
 
 ## 💻 Misc
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueJeans98&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jsk0821)](https://solved.ac/{handle})
+[![github stats](https://github-readme-stats.vercel.app/api?username=bluejeans98)](https://github.com/anuraghazra/github-readme-stats)
+[![acmicpc](http://mazassumnida.wtf/api/generate_badge?boj=jsk0821)](https://solved.ac/jsk0821)
