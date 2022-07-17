@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 + [COINSE LAB](https://coinse.kaist.ac.kr/)   
 
 ## 👀 Now I'm interested in ...
-+ Fault Localization
++ Software testing
 
-+ Deep Learning
++ Fault Localization
 
 ## 💻 Misc
 
